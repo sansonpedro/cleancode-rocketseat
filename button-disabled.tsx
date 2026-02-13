@@ -1,3 +1,5 @@
+// causa x efeito
+
 function Button() {
     const isFormSubmitting = true;
     return (
@@ -10,6 +12,7 @@ function Button() {
 
 export default Button
 
+
 // boas práticas de nomeação de variáveis
 // 1. nomeação clara
 // 2. nomeação descritiva
@@ -19,4 +22,4 @@ export default Button
 // 6. nomeação escalável
 // 7. nomeação performática
 // 8. nomeação segura
-// 9. pensar na causa dela, não no efeito
+// 9. pensar na causa dela, não no efeito, para nomear
